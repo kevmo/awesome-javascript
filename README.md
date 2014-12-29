@@ -1,8 +1,3 @@
-awesome-javascript
-==================
-
-JavaScript resources
-
 **Development Tools**
 =================
 
