@@ -1,0 +1,4 @@
+awesome-javascript
+==================
+
+JavaScript resources
