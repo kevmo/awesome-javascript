@@ -20,5 +20,5 @@
 **Other repos of resources**
 ========================
 
-[Superhero](http://superherojs.com/)
-
+* [Superhero](http://superherojs.com/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
