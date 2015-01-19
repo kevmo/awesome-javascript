@@ -9,6 +9,8 @@
 
 [Gulp](http://gulpjs.com/)
 
+[Browserify](http://benclinkinbeard.com/posts/how-browserify-works/)
+
 **jQuery and its Naysayers**
 ================
 
