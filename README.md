@@ -11,6 +11,11 @@
 
 [Browserify](http://benclinkinbeard.com/posts/how-browserify-works/)
 
+**Computer Science**
+==============
+
+*[Implementing a Programming Language in JavaScript](http://lisperator.net/pltut/)
+
 **jQuery and its Naysayers**
 ================
 
